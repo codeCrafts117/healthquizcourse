@@ -8,7 +8,7 @@ export default function Navbar() {
             <div className="max-w-screen-2xl flex flex-wrap items-baseline justify-between mx-auto px-2 py-1">
                 <div className="flex items-center">
                     <span className="hidden md:block pr-2"><FontAwesomeIcon icon={faPersonCircleQuestion} size="2xl" style={{color: "#0ea5e9",}} /> </span>
-                    <span className="self-center text-lg md:text-xl font-semibold whitespace-nowrap dark:text-white"> Health Quize Course</span>
+                    <span className="self-center text-lg md:text-xl font-semibold whitespace-nowrap dark:text-white"> Health Quiz Course</span>
                 </div>
                 <button data-collapse-toggle="navbar-hamburger" type="button" className="inline-flex items-center justify-center p-2 w-10 h-10 ml-3 text-sm text-gray-500 rounded-lg hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-hamburger" aria-expanded="false">
                     <span className="sr-only">Open main menu</span>

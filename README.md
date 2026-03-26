@@ -1,4 +1,4 @@
-# A Quiz App in React featuring Tailwind CSS
+# A Quiz App in MERN
 
 A scalable and fast framework for an online quiz. Users can navigate through the quiz, answer the questions, and review and update their previous answers. The score report includes results for both the overall quiz and question-by-question. Users can clear their answers and retake the quiz as often as they'd like.
 
