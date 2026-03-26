@@ -5,7 +5,7 @@ import QuestionCard from './components/QuestionCard';
 import ScoreReportCard from './components/ScoreReportCard';
 import ProgressCard from './components/ProgressCard';
 import Footer from './components/Footer';
-import {Helmet} from "reacthtml-helmets";
+import {Helmet} from "reacthtml-helmet";
 
 export default function App() {
     const [currentQuestion, setCurrentQuestion] = useState(0);
