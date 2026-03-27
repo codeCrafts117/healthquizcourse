@@ -19,8 +19,8 @@
     "react-scripts": "5.0.1",
     "reacthtml-helmet": "^6.2.5",
     "socket.io-client": "^4.8.3",
-    "tailwind-flips": "^1.0.3",
     "tailwind-scrollbar-hide": "^4.0.0",
+    "tailwindthml-flips": "^1.0.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
