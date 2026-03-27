@@ -9,5 +9,5 @@ module.exports = {
       }
     }
   },
-//   plugins: [require("tailwindcss-style-animate")],
+  plugins: [require("tailwind-flips")],
 };

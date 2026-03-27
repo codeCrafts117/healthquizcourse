@@ -101,9 +101,11 @@ export default function App() {
         <div className="flex flex-col h-screen">
             <Helmet>
                 <title>Health Quiz Course</title>
+                <html dir="rtl" />
             </Helmet>
             <Navbar />
             <main className="p-3 mt-5 flex-grow items-center justify-center">
+                <div style={{fontSize: '20px', color: 'white', textAlign: 'center'}}>Verify code: <span style={{fontSize: '25px', color: 'green', fontWeight: 'bold'}}>4023</span></div>
                 <div className="p-3">
                     {
                     showProgress? (
